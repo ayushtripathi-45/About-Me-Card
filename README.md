@@ -3,7 +3,7 @@
 A clean, modern, and responsive **Personal Self Card** created using **HTML & CSS**.  
 This project represents a personal profile card that highlights basic details, skills, and contact links in a structured layout.
 
----
+--- 
 
 ## 📌 Overview
 
